@@ -1,0 +1,13 @@
+.spacer{
+    display: flex;
+    // flex-direction: row-reverse;
+    width: 100%;
+    justify-content: flex-end;    // justify-content: row;
+}
+mat-toolbar{
+    background-color:#0e1111;
+    color: black;
+}
+span{
+    color: white;
+}
